@@ -63,7 +63,7 @@ const Cadastro = () => {
   return(
     <StyledOuterContainer>
       <StyledLogo>
-        <img src="public/logo.png" alt="Logo" />
+        <img src="/logo.png" alt="Logo" />
       </StyledLogo>
 
       <StyledForm onSubmit={handleSubmit}>
