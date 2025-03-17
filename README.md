@@ -1,6 +1,7 @@
-# https://track-it-two-jade.vercel.app/
-
 # Habit Tracker
+
+## Link: `https://track-it-two-jade.vercel.app/`
+
 **TrackIt** is a mobile application that allows users to track their habits. It includes features like user registration, login, habit creation, and daily habit tracking. The app is built using React and styled-components, and it communicates with a mock API for user and habit data management.
 
 ## Technologies Used:
