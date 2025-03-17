@@ -1,6 +1,6 @@
 # Habit Tracker
 
-You can view the Driven Eats App live at <a href="https://track-it-two-jade.vercel.app/" target="_blank">https://track-it-two-jade.vercel.app/</a>.
+You can view the Trackit App live at <a href="https://track-it-two-jade.vercel.app/" target="_blank">https://track-it-two-jade.vercel.app/</a>.
 
 **TrackIt** is a mobile application that allows users to track their habits. It includes features like user registration, login, habit creation, and daily habit tracking. The app is built using React and styled-components, and it communicates with a mock API for user and habit data management.
 
